@@ -1,16 +1,27 @@
-## Hi there 👋
+# 💫 About Me:
+Hi! I'm Pukhraj Motwani, a Computer Science undergraduate at Maulana Azad National Institute of Technology (MANIT), Bhopal.<br><br>I'm passionate about building scalable and impactful web applications, solving real-world problems through clean code, and constantly learning new tools and technologies. My core interests lie in full-stack development, data structures and algorithms, and open-source contributions.<br><br>I’ve worked on projects like:<br><br>A Smart Eco-Friendly Product Recommender (Walmart Sparkathon 2025)<br><br>The official website of Quizzers’ Club MANIT (QCM)<br><br>A full-stack contact manager with OTP-based login and MongoDB backend<br><br>Beyond development, I’m actively involved in QCM where I’ve organized and hosted intercollegiate quizzes, designed digital infrastructure, and contributed to community-building through tech. I also have a keen interest in India-centered geopolitics and strategy, which shapes my analytical thinking.<br><br>💻 Tech Stack:<br><br>Languages: C, C++, Python, JavaScript<br>Frontend: React.js, Tailwind CSS, Zustand<br>Backend: Node.js, Express.js, Appwrite, Convex<br>Database: MongoDB<br>Tools: Git, GitHub, VS Code, Postman, Figma<br><br>🚀 Currently Working On:<br><br>Improving the QCM website for better performance and admin analytics<br><br>Contributing to the p5.js open-source editor<br><br>Exploring basic machine learning and Google Cloud Platform tools<br><br>Preparing for summer internship applications at product-based companies<br><br>🎯 Highlights:<br><br>Solved 900+ DSA problems across platforms<br><br>LeetCode Max Rating: 1650 | Codeforces Max Rating: 1500<br><br>Selected for Reliance Foundation Scholarship 2023 (Top 5,000 nationwide)<br><br>Worked as a Subject Matter Expert (DSA) at Learn As You Go<br><br>🎯 Hobbies & Interests:<br><br>Quizzing and event hosting<br><br>Strategic board games and problem-solving contests<br><br>Reading about geopolitics and global affairs<br><br>Exploring UI/UX and product design thinking
 
-<!--
-**pm-235779/pm-235779** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pukhrajmotwani_23) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pukhraj-motwani-21112527a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pm_230905) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pukhrajmotwani239@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pm-235779&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=pm-235779&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pm-235779&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pm-235779&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=pm-235779&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=pm-235779&icon=5&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
